@@ -1,4 +1,3 @@
 .DS_Store
-.env
 dev.db
 service/src/infrastructure/db/dev.db
